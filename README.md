@@ -2,7 +2,7 @@
 -I’m interested in Web programming and IoT
 -🌱 I’m currently learning Algorithms
 -💞️ I’m looking to collaborate on open-source IoT projects and web development initiatives
--📫 How to reach me: You can reach me at [your email] or connect with me on LinkedIn [LinkedIn link]
+-📫 How to reach me: You can reach me at zossoungbomario@gmail.com or connect with me on Instagram PowelMad
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I'm a beginner coding enthusiast, excited to learn and grow in the world of programming!
 
