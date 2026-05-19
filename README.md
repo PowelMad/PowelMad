@@ -1,11 +1,12 @@
--👋 Hi, I’m @PowelMad
--I’m interested in Web programming and IoT
--🌱 I’m currently learning Algorithms
--💞️ I’m looking to collaborate on open-source IoT projects and web development initiatives
--📫 How to reach me: You can reach me at zossoungbomario@gmail.com or connect with me on Instagram PowelMad
--😄 Pronouns: He/Him
--⚡ Fun fact: I'm a beginner coding enthusiast, excited to learn and grow in the world of programming!
+👋 Hi, I'm Powel — software engineering student from Cotonou, Bénin.
 
+💻 I build with Java · PHP · PostgreSQL · MySQL
+🔐 Cybersecurity & Networking — coming next
+🌱 Learning every day — algorithms, systems, open source
+🤝 Open to collaborating on open-source projects
+📫 Reach me at zossoungbomario@gmail.com
+
+⚡ Fun fact: I started as a curious beginner — still curious, way less beginner.
 <!---
 PowelMad/PowelMad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
